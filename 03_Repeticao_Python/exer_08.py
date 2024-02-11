@@ -2,9 +2,6 @@ import customtkinter as ctk
 from tkinter import *
 import math
 
-#)Número primo é aquele que somente é divisível por ele mesmo e pela unidade. Fazer um algoritmo que leia
-#um número inteiro positivo, calcule e escreva se este é um número primo ou não
-
 def verificarPrimo():
     num1 = int(entrada_numero1.get())
 
