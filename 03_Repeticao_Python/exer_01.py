@@ -2,8 +2,6 @@ import customtkinter as ctk
 from tkinter import *
 import math
 
-#faça um algortimo que ao ser digitado um numero imprima ate esse numero em uma lista
-
 def imprimirLista():
     a = int(entrada_numero1.get())
 
