@@ -2,9 +2,6 @@ import customtkinter as ctk
 from tkinter import *
 import math
 
-#)Fazer um algoritmo que calcule e escreva a multiplicação de dois números N1 e N2 lidos do teclado.
-# Obs.: a máquina que executará este algoritmo somente sabe: adicionar e subtrair.
-
 def SomaRepetitiva():
     num1 = int(entrada_numero1.get())
     num2 = int(entrada_numero2.get())
