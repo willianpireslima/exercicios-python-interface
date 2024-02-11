@@ -2,10 +2,6 @@ import customtkinter as ctk
 from tkinter import *
 import math
 
-#Número capicuas são aqueles que escritos da direita para esquerda ou da esquerda para direita têm o mesmo
-#valor. Exemplo: 929, 44, 97379. Fazer um algoritmo, que dado um número inteiro positivo, calcule e escreva
-#se o mesmo é ou não capicua
-
 def verificarCapicuas():
     a = int(entrada_numero1.get())
     #converter numero para array
