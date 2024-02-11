@@ -2,9 +2,6 @@ import customtkinter as ctk
 from tkinter import *
 import math
 
-#Fazer um algoritmo que calcule o volume de uma esfera em função do raio R.
-# O raio deverá variar de 0 a 20 cm de 0,5 em 0,5 cm em imprima em lista
-
 def imprimirLista():
     raio=0
     volume=0
