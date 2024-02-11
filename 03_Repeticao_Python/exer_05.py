@@ -2,9 +2,6 @@ import customtkinter as ctk
 from tkinter import *
 import math
 
-#) U) Fazer um algoritmo que leia um número inteiro positivo, calcule e escreva o seu fatorial.
-#Exemplo: Fatorial de 5 → 5! = 5*4*3*2*1. Obs.: Fatorial de 0, por definição: 0! = 1.
-
 def verificarFatorial():
     a = int(entrada_numero1.get())
 
