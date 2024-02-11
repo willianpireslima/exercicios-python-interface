@@ -2,10 +2,6 @@ import customtkinter as ctk
 from tkinter import *
 import math
 
-#)Fazer um algoritmo que leia um número inteiro positivo, calcule e escreva se o número lido é perfeito ou não.
-#Número perfeito é aquele cuja soma de seus divisores, exceto ele próprio, é igual ao número. Exemplo: 6 é um
-#número perfeito porque 1 + 2 + 3 = 6.
-
 def verificarPerfeito():
     num1 = int(entrada_numero1.get())
 
